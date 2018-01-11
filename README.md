@@ -1,4 +1,4 @@
-# 5-Piper_Conversion-and-Computational-Modeling
+# Andrew Piper's "Novel Devotions"
 
 Andrew Piper [Novel Devotions: Conversional Reading, Computational Modeling,
 and the Modern Novel](http://piperlab.mcgill.ca/pdfs/Piper_NovelConversions.pdf)
